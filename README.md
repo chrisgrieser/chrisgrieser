@@ -1,4 +1,4 @@
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jarun&theme=merko&show_icons=true">](https://metrics.lecoq.io/jarun?template=classic)
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chrisgrieser&theme=merko&show_icons=true">
 
 - developer of Shimmering Focus (Obsidian Theme), the Alfred workflow for Obsidian, ...
 - Researcher in sociology, studying the social mechanisms underlying the digital economy. 

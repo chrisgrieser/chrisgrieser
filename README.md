@@ -1,6 +1,8 @@
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chrisgrieser&theme=merko&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chrisgrieser&show_icons=true">
 
-- Developer of Shimmering Focus (Obsidian Theme), the Alfred workflow for Obsidian, ...
-- Self-taught leisure-time coder, mostly CSS, JavaScript, and Shell.
+- Developer of various themes and plugins for Obsidian, Alfred, and other apps.
+- Self-taught hobby coder
 - Researcher in sociology, studying the social mechanisms underlying the digital economy. 
-- Teaching classes on Technology and Innovation Studies, and the digital economy from a social scientific perspective.
+- Teaching sociology classes on innovation research, organizational theory, start-ups, and the digital economy in general.
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script><script type='text/javascript'>counterwidget.init('Y8Y86SQ91');counterwidget.draw();</script>

@@ -4,5 +4,3 @@
 - Self-taught hobby coder
 - Researcher in sociology, studying the social mechanisms underlying the digital economy. 
 - Teaching sociology classes on innovation research, organizational theory, start-ups, and the digital economy in general.
-
-<script type='text/javascript' src='https://ko-fi.com/widgets/CounterWidget.js'></script><script type='text/javascript'>counterwidget.init('Y8Y86SQ91');counterwidget.draw();</script>

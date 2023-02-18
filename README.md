@@ -1,6 +1,6 @@
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chrisgrieser&show_icons=true">
+- Research Associate in sociology, studying the social mechanisms underlying the digital economy. 
+- Hobby developer
 
-- Developer of various themes and plugins for Obsidian, Alfred, and other apps.
-- Self-taught hobby coder
-- Researcher in sociology, studying the social mechanisms underlying the digital economy. 
-- Teaching sociology classes on innovation research, organizational theory, start-ups, and the digital economy in general.
+[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=chrisgrieser&count_private=true&show_icons=true)](https://github.com/chrisgrieser)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgrieser&hide=tex,scss,python,html)](https://github.com/chrisgrieser)

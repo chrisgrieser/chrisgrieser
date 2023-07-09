@@ -3,7 +3,6 @@
 
 [![pseudometa's github stats](https://github-readme-stats.vercel.app/api?username=chrisgrieser&count_private=false&show_icons=true)](https://github.com/chrisgrieser)
 
-## Profiles
 ### Profiles
 - [Academic Website](https://chris-grieser.de/)
 - [ResearchGate](https://www.researchgate.net/profile/Christopher-Grieser)

@@ -9,7 +9,5 @@
 - [Discord](https://discordapp.com/users/462774483044794368/)
 - [GitHub](https://github.com/chrisgrieser/)
 - [Twitter](https://twitter.com/pseudo_meta)
-- <a rel="me" href="https://pkm.social/@pseudometa">Mastodon</a>
+- <a rel="me" href="https://pkm.social/@pseudometa">Mastodon</a> <!-- INFO Mastodon verification: https://docs.joinmastodon.org/user/profile/#verification -->
 - [LinkedIn](https://www.linkedin.com/in/christopher-grieser-ba693b17a/)
-
-

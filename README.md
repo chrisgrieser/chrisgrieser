@@ -1,3 +1,5 @@
+*a.k.a. pseudometa*
+
 - Research Associate in sociology, studying the social mechanisms underlying the digital economy
 - Developer of various plugins for Obsidian, Neovim, and Alfred
 

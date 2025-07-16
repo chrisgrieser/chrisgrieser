@@ -11,8 +11,6 @@ store](https://alfred.app/workflows/chrisgrieser/reddit-browser/). In addition,
 I am an alpha-tester for [Obsidian](http://obsidian.md) since 2022.
 
 - <a rel="me" href="https://pkm.social/@pseudometa">Mastodon</a><!--https://pkm.social/settings/verification-->
-- [Bluesky](https://bsky.app/profile/pseudometa.bsky.social)
-- [Blog for nvim tips](https://nanotipsforvim.prose.sh/)
 - [Dotfiles](https://github.com/chrisgrieser/.config)
 
 ![GitHub

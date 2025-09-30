@@ -1,5 +1,5 @@
-In my day job, I am a researcher in sociology. My PhD-project investigates the governance 
-of platform economies.
+In my day job, I am a researcher in sociology, investigating the governance 
+of platform markets.
 
 I am also a self-taught software developer and have created various plugins for
 [Neovim](https://dotfyle.com/chrisgrieser),

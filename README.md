@@ -13,4 +13,4 @@ I am an alpha-tester for [Obsidian](http://obsidian.md) since 2022.
 - <a rel="me" href="https://pkm.social/@pseudometa">🐘 Mastodon</a><!--https://pkm.social/settings/verification-->
 - [⚫️ Dotfiles](https://github.com/chrisgrieser/.config)
 
-![GitHub Card](https://githubcard.com/chrisgrieser.svg)
+![GitHub Card](https://githubcard.com/chrisgrieser.svg?d=eM90fAZT)

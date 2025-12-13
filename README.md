@@ -10,7 +10,10 @@ and [an Alfred plugin featured in the official plugin
 store](https://alfred.app/workflows/chrisgrieser/reddit-browser/). In addition,
 I am an alpha-tester for [Obsidian](http://obsidian.md) since 2022.
 
+- [🌐 Website](https://chris-grieser.de/)
 - <a rel="me" href="https://pkm.social/@pseudometa">🐘 Mastodon</a><!--https://pkm.social/settings/verification-->
 - [⚫️ Dotfiles](https://github.com/chrisgrieser/.config)
+- [🎓 Academic publications](https://chris-grieser.de/publication-list)
+- [📊 PhD project](https://chris-grieser.de/phd-project)
 
 ![GitHub Card](https://githubcard.com/chrisgrieser.svg?d=eM90fAZT)

@@ -1,4 +1,5 @@
-In my day job, I am a researcher in sociology, investigating the governance 
+<!-- rumdl-disable-next-line MD041 -->
+In my day job, I am a researcher in sociology, investigating the governance
 of platform markets.
 
 I am also a self-taught software developer and have created various plugins for
@@ -11,6 +12,7 @@ store](https://alfred.app/workflows/chrisgrieser/reddit-browser/). In addition,
 I am an alpha-tester for [Obsidian](http://obsidian.md) since 2022.
 
 - [🌐 Website](https://chris-grieser.de/)
+<!-- rumdl-disable-next-line MD033 -->
 - <a rel="me" href="https://pkm.social/@pseudometa">🐘 Mastodon</a><!--https://pkm.social/settings/verification-->
 - [⚫️ Dotfiles](https://github.com/chrisgrieser/.config)
 - [🎓 Academic publications](https://chris-grieser.de/publication-list)

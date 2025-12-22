@@ -12,8 +12,7 @@ store](https://alfred.app/workflows/chrisgrieser/reddit-browser/). In addition,
 I am an alpha-tester for [Obsidian](http://obsidian.md) since 2022.
 
 - [🌐 Website](https://chris-grieser.de/)
-<!-- rumdl-disable-next-line MD033 -->
-- <a rel="me" href="https://pkm.social/@pseudometa">🐘 Mastodon</a><!--https://pkm.social/settings/verification-->
+- <a rel="me" href="https://pkm.social/@pseudometa">🐘 Mastodon</a><!--https://pkm.social/settings/verification--> <!-- rumdl-disable-next MD033 -->
 - [⚫️ Dotfiles](https://github.com/chrisgrieser/.config)
 - [🎓 Academic publications](https://chris-grieser.de/publication-list)
 - [📊 PhD project](https://chris-grieser.de/phd-project)
